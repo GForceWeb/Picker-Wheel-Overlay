@@ -1,0 +1,5 @@
+This repo forks Wheel of Fortune Bingo by Jeremy Rue to build a solution for running a Wheel of Fortune style spinner powered by Streamer.Bot for your streams.
+
+My primary usecase for this can been to do a virtual spinner for the BeanBoozled Spicy Bean challenge
+
+There's currently still some work to do on refining the code and writing up docs so it's pretty raw right now. When there's time/interest I'll look to polish this up further
